@@ -1,0 +1,395 @@
+
+@media (max-width:1440px) and (min-width:1200px){
+
+    .container{
+        max-width: 1350px;
+    }
+    /* landing page */
+
+    .text_head {margin-top: 0rem;}
+    .text_head p {font-size: 30px; }
+    .text_head small {font-size: 17px;}
+    .img_animate_arrow img { padding: 5rem 0 0 0rem;}
+    .check_Sec h4 {font-size: 18px;}
+    .treck_Sec p {font-size: 34px;}
+    .treck_Sec h4 {font-size: 34px;}
+    .small_treck p {font-size: 15px;}
+    .text_sectin_side h4 {font-size: 30px;}
+    .text_sectin_side p {font-size: 15px;}
+    .printing_text h4 {font-size: 34px;}
+    .printing_text p {font-size: 15px;}
+    .slider_main_section.item {max-width: 400px;}
+    .white_box_slider{padding: 2rem 2em;}
+    .icon_title img {border: 3px solid #FFFFFF;  max-width: 80px;height: 80px;  margin-top: -60px;}
+    .name_about h4 {font-size: 20px;}
+    .name_about .star_section i {font-size: 14px;}
+    .discription_about p{ font-size: 14px;}
+    .footer_main h4 {font-size: 40px;}
+    .store_app_Sec a img {max-width: 180px;}
+    .link_in_footer a {font-size: 14px;}
+    .copy_right_Sec p{ font-size: 14px;}
+    .side_drop_down_top .dropdown-menu {left: -30px!important;}
+    .register_self h4 { font-size: 19px;}
+    .register_self h4 span {font-size: 85px; }
+    .detail_register p { font-size: 14px;}
+    .main_header_Section {background-size: contain;}
+    .bg_sec_coloured, .green_bg, .cream_bg, .bg_sec_coloured.sky_bg {background-size: 80% 350px;}
+    .img_on_header img{ transform: translateX(-66px); }
+    /* .on_right_side{margin-right: auto;} */
+
+    /* faq html */
+    .accordion .item .item-header h2 button.btn.btn-link {font-size: 18px;}
+    .t-p {font-size: 15px;}
+
+    /* pricing html */
+    .white_box,
+    .white_box.active {padding: 2rem 1rem;}
+    .main_header_Section.blog_detail .text_head h4 {font-size: 36px;}
+    .detail_of_blog h4 {font-size: 20px;}
+    .detail_of_blog p {font-size: 14px;}
+    .read_more_btn {font-size: 14px; }
+
+    .absolute_text h4 {font-size: 40px; }
+    .absolute_text {right: 39%;}
+
+
+    /* extra bug changes */
+    .main_header_Section.blog_detail { height: 85vh;}
+
+}
+@media (max-width:1199px) and (min-width:992px) {
+    
+
+    /* landing page */
+    /* .main_header_Section.main_title_img {       
+         background-size: 100%; 
+    } */
+    .text_head { margin-top: 3rem;}
+    .text_head p {font-size: 30px;}
+    .text_head small {font-size: 16px; }
+    .img_animate_arrow img {padding: 6rem 0 0 3rem;}
+    .check_Sec h4 {font-size: 16px;}
+    .treck_Sec p {font-size: 30px}
+    .treck_Sec h4 {font-size: 30px;}
+    .small_treck p {font-size: 14px;}
+    .text_sectin_side h4 {font-size: 30px; }
+    .text_sectin_side p {font-size: 14px;}    
+    .printing_text h4 {font-size: 30px;}
+    .printing_text p {font-size: 14px;}
+    .slider_main_section.item {max-width: 400px;}
+    .white_box_slider {padding: 2rem 2em;}
+    .icon_title img {border: 3px solid #FFFFFF;max-width: 80px; height: 80px;margin-top: -60px;}
+    .name_about h4 { font-size: 18px;}
+    .name_about .star_section i {font-size: 14px;}
+    .discription_about p{font-size: 14px;}
+    .footer_main h4 {font-size: 30px; }
+    .store_app_Sec a img {max-width: 160px; }
+    .link_in_footer a {font-size: 14px;}
+    .copy_right_Sec p{font-size: 14px;}
+    .main_header_Section {background-size: cover!important;}
+    .main_header_Section.about_us_main {background-size: cover;}
+    .bg_round {background-size: 200px, 200px;}
+    .step_follow p { font-size: 16px;}
+    .detail_register p {font-size: 15px; }
+    .register_self h4 {font-size: 22px;}
+    .register_self h4 span {font-size: 80px;}
+    .side_drop_down_top .dropdown-menu {left: -30px!important;}
+
+    /* faq html */
+    .accordion .item .item-header h2 button.btn.btn-link {font-size: 18px;}
+    .t-p {font-size: 15px;}
+    .main_header_Section.faq_main,
+    .main_header_Section.pricing_main,    
+    .main_header_Section.blog_detail,
+    .main_header_Section.blog_main { background-size: cover; height: auto;}
+    .main_header_Section.blog_detail{ height: 90vh;}
+    .main_header_Section.blog_detail .text_head h4 {font-size: 32px;}
+    .detail_blog p {font-size: 15px;}
+    .img_blog img {max-width: 280px;}
+    .detail_blog h4 { font-size: 22px;}
+    .absolute_text h4 {font-size: 30px;}
+    .absolute_text {right: 39%;}
+    .detail_of_blog h4 {font-size: 18px;}
+    .detail_of_blog p {font-size: 14px;}
+    .read_more_btn {font-size: 14px; }
+
+    .round_right img,.round_left img{
+        max-width: 250px;
+        height: auto;
+    }
+
+}
+@media (max-width:991px) and (min-width:768px){
+    .container{
+        max-width: 720px;
+    }
+    
+    /* * landing page */ 
+
+    .navigation_sec_head #navbarNavDropdown{position: absolute;top: 106px;background: #000;width: 80%;padding: 30px;z-index: 11; left: 0;
+    right: 0; margin: auto; border-radius: 30px; }   
+    .navigation_sec_head .navbar-nav .nav-item {text-align: center;margin: 0.5rem 0;}
+    .button_header{justify-content: center;  border-left: unset;}
+    .navbar-toggler i{color: #D20000!important;}
+
+    .text_head { margin-top: 3rem;}
+    .text_head p {font-size: 30px;}
+    .text_head small {font-size: 16px; }
+    .img_animate_arrow img {padding: 8rem 0 0 3rem;}
+    .check_Sec h4 {font-size: 16px;}
+    .treck_Sec p {font-size: 26px}
+    .treck_Sec h4 {font-size: 26px;}
+    .small_treck p {font-size: 14px;}
+    .text_sectin_side h4 {font-size: 26px; }
+    .text_sectin_side p {font-size: 14px;}    
+    .printing_text h4 {font-size: 26px;}
+    .printing_text p {font-size: 14px;}
+    .slider_main_section.item {max-width: 320px;}
+    .white_box_slider {padding: 1rem 1rem;}
+    .icon_title img { border: 3px solid #FFFFFF; max-width: 60px; height: 60px; margin-top: -40px;}
+    .name_about h4 { font-size: 15px;}
+    .name_about .star_section i {font-size: 14px;}
+    .discription_about p{font-size: 12px;}
+    .footer_main h4 {font-size: 28px; }
+    .store_app_Sec a img {max-width: 160px; }
+    .link_in_footer a {font-size: 12px;}
+    .copy_right_Sec p{font-size: 12px;}
+    .main_header_Section {background-size: auto!important;}
+    .main_header_Section.about_us_main {background-size: auto;}
+    .bg_round {background-size: 200px, 200px;}
+    .step_follow p { font-size: 16px;}
+    .detail_register p {font-size: 15px; }
+    .register_self h4 {font-size: 22px;}
+    .register_self h4 span {font-size: 80px;}
+    .side_drop_down_top .dropdown-menu {left: -30px!important;}
+    .about_main .about_bg_purple,
+    .about_main .about_bg_cream,
+    .about_main .about_bg_sky,
+    .bg_sec_coloured,.bg_sec_coloured.sky_bg,.cream_bg,.green_bg{background-size: 100%; }
+
+    /* faq html */
+    .accordion .item .item-header h2 button.btn.btn-link {font-size: 18px;}
+    .t-p {font-size: 14px;}
+    .main_header_Section.faq_main,
+    .main_header_Section.pricing_main,
+    .main_header_Section.blog_detail,
+    .main_header_Section.blog_main {background-size: cover; height: auto;}
+
+    /* pricing */
+    .price_sec h2,
+    .white_box.active .price_sec h2 {font-size: 40px;}
+    .white_box p,.white_box.active p {font-size: 14px;}
+    .button_bottom .join_btn,.white_box.active .button_bottom .join_btn {font-size: 16px;padding: 1rem 0;}
+    .main_header_Section.blog_detail .text_head h4 {font-size: 32px;}
+    .detail_blog p {font-size: 15px;line-height: 30px;}
+    .img_blog img {max-width: 250px;  }
+    .detail_blog h4 {  font-size: 22px;}
+    .detail_of_blog h4 {font-size: 18px;}
+    .detail_of_blog p {font-size: 14px;}
+    .read_more_btn {font-size: 14px; } 
+    .title_about h4 {font-size: 50px; }
+    .story_detil p {font-size: 14px;}
+    .story_detil h4 {font-size: 28px;}
+    .absolute_text h4 {font-size: 30px;}
+    .absolute_text {  right: 32%;}
+    .main_header_Section.about_us_main .navbar-nav a.nav-link{color: #fff}
+    .main_header_Section.about_us_main .button_header .btn_create {color: #fff;}
+    .main_header_Section.about_us_main .button_header .btn_create.active{color: #fff;}
+    .main_header_Section.blog_detail { height: 80vh;}
+
+    .round_right img,.round_left img{
+        max-width: 200px;
+        height: auto;
+    }
+    .button_header{
+         padding: 0rem 0rem 0rem 0rem;
+    }
+
+
+}
+@media (max-width:575px){
+     /* * landing page */ 
+
+    .navigation_sec_head #navbarNavDropdown{position: absolute;top: 106px;background: #000;width: 100%;padding: 30px;z-index: 11; left: 0; right: 0; margin: auto; border-radius: 30px; }   
+    .navigation_sec_head .navbar-nav .nav-item {text-align: center;margin: 0.5rem 0;}
+    .button_header{justify-content: center;  border-left: unset;flex-wrap: wrap;}
+    .button_head a img{max-width: 150px;height: auto;}
+    .navbar-toggler i{color: #D20000!important;}    
+    .text_head { margin-top: 3rem;}
+    .text_head p {font-size: 22px;}
+    .text_head small {font-size: 14px; }
+    .img_animate_arrow img {padding: 0rem 0 0 0rem;}
+    .check_Sec h4 {font-size: 16px;}
+    .treck_Sec p {font-size: 22px}
+    .treck_Sec h4 {font-size: 22px;}
+    .small_treck p {font-size: 14px;}
+    .text_sectin_side h4 {font-size: 22px; }
+    .text_sectin_side p {font-size: 14px;}    
+    .printing_text h4 {font-size: 22px;}
+    .printing_text p {font-size: 14px;}
+    .slider_main_section.item {max-width: 320px;}
+    .white_box_slider {padding: 1rem 1rem;}
+    .icon_title img { border: 3px solid #FFFFFF; max-width: 60px; height: 60px; margin-top: -40px;}
+    .name_about h4 { font-size: 15px;}
+    .name_about .star_section i {font-size: 14px;}
+    .discription_about p{font-size: 12px;}
+    .footer_main h4 {font-size: 22px; }
+    .store_app_Sec a img {max-width: 130px; }
+    .link_in_footer a {font-size: 12px;}
+    .copy_right_Sec p{font-size: 12px;}
+    .main_header_Section,
+    .main_header_Section.about_us_main {background-size: auto!important;}
+    .bg_round {background-size: 200px, 200px;}
+    .step_follow p { font-size: 16px;}
+    .detail_register p {font-size: 14px; }
+    .register_self h4 {font-size: 20px;}
+    .register_self h4 span {font-size: 60px;}
+    .side_drop_down_top .dropdown-menu {left: -30px!important;}
+    .button_Sec_account .btn-create p {font-size: 14px;}
+    .phn_section img,
+    .phn_section_left img{max-height: 400px;width: auto;}
+    .text_sectin_side, 
+    .text_sectin_side.left_side {transform:unset;}
+    .phn_section_left img ,
+    .phn_section img{transform:unset;}
+    .bg_sec_coloured {background-position-x:unset;background-position-y: center; background-size: auto;}
+    .cream_bg {background-position-y: bottom;background-position-x: unset;}
+    section.slider_bg {background-position: center;background-size: cover;padding-top: 0;}
+    .store_app_Sec{display: flex!important;justify-content: space-between;}
+    .social_icons{padding-top: 2rem;text-align: left!important;}
+    .footer_icon img{max-width: 200px;height:auto;}
+    .navigation_sec_head .navbar-nav a.nav-link {font-size: 14px;}
+    .about_main .about_bg_purple,
+    .about_main .about_bg_cream,
+    .about_main .about_bg_sky{background-position-y: bottom;}
+
+     /* faq html */
+     .accordion .item .item-header h2 button.btn.btn-link {font-size: 18px;}
+     .t-p {font-size: 14px;}
+     .main_header_Section.faq_main,
+     .main_header_Section.pricing_main,
+     .main_header_Section.blog_detail,
+     .main_header_Section.blog_main { background-size: cover; height: auto;}
+
+       /* pricing */
+    .price_sec h2,.white_box.active .price_sec h2 { font-size: 40px;}
+    .white_box p,.white_box.active p {font-size: 14px; }
+    .button_bottom .join_btn,.white_box.active .button_bottom .join_btn {font-size: 16px;padding: 1rem 0;}
+    .main_header_Section.blog_detail .text_head h4 {font-size: 20px;}
+    .detail_blog p {font-size: 15px; line-height: 30px; }
+    .img_blog img {max-width: 250px; }
+    .detail_blog h4 {  font-size: 22px;}
+    .img_blog{text-align: center!important;}
+    .iocn_header a i {font-size: 20px; padding: 0 1rem;}
+    .detail_of_blog h4 {font-size: 18px;}
+    .detail_of_blog p {font-size: 14px;}
+    .read_more_btn {font-size: 14px; }
+    .title_about h4 {font-size: 50px;}
+    .story_detil p {font-size: 14px;}
+    .story_detil h4 {font-size: 28px; }
+    .absolute_text h4 {font-size: 30px;}
+    .absolute_text { right: 36%;}
+    .main_header_Section.about_us_main .navbar-nav a.nav-link{color: #fff}
+    .main_header_Section.about_us_main .button_header .btn_create {color: #fff;}
+    .main_header_Section.about_us_main .button_header .btn_create.active{color: #fff;}
+    .main_header_Section.blog_detail {height: 90vh;}
+
+    .round_right img,.round_left img{ max-width: 200px;}
+    .img_animate_arrow img { width: 200px; height: auto;}
+    .img_animate_arrow {margin-top: 14rem!important;}
+    .button_header{padding: 0rem 0rem 0rem 0rem;}
+ 
+}
+@media (max-width:320px){
+     /* * landing page */ 
+
+     .navigation_sec_head #navbarNavDropdown{position: absolute;top: 106px;background: #000;width: 100%;padding: 30px;z-index: 11; left: 0; right: 0; margin: auto; border-radius: 30px; }   
+     .navigation_sec_head .navbar-nav .nav-item {text-align: center;margin: 0.5rem 0;}
+     .button_header{justify-content: center;  border-left: unset;flex-wrap: wrap;}
+     .button_head a img{max-width: 120px;height: auto;}
+     .navbar-toggler i{color: #D20000!important;}    
+     .text_head { margin-top: 3rem;}
+     .text_head p {font-size: 20px;}
+     .text_head small {font-size: 12px;}
+     .button_head a{margin-right: 0px!important;}
+     .img_animate_arrow img {padding: 0rem 0 0 0rem;}
+     .check_Sec h4 {font-size: 14px;}
+     .treck_Sec p {font-size: 14px}
+     .treck_Sec h4 {font-size: 18px;}
+     .small_treck p {font-size: 13px;}
+     .text_sectin_side h4 {font-size: 20px; }
+     .text_sectin_side p {font-size: 13px;}    
+     .printing_text h4 {font-size: 20px;}
+     .printing_text p {font-size: 13px;}
+     .slider_main_section.item {max-width: 260px;}
+     .white_box_slider {padding: 1rem 1rem;}
+     .icon_title img { border: 3px solid #FFFFFF; max-width: 60px; height: 60px; margin-top: -40px;}
+     .name_about h4 { font-size: 15px;}
+     .name_about .star_section i {font-size: 14px;}
+     .discription_about p{font-size: 12px;}
+     .footer_main h4 {font-size: 18px; }
+     .store_app_Sec a img {max-width: 100px; }
+     .link_in_footer a {font-size: 12px;}
+     .copy_right_Sec p{font-size: 12px;}
+     .main_header_Section,.main_header_Section.about_us_main 
+      {background-size: auto;}
+     .bg_round {background-size: 200px, 200px;}
+     .step_follow p { font-size: 14px;}
+     .detail_register p {font-size: 14px; }
+     .register_self h4 {font-size: 18px;}
+     .register_self h4 span {font-size: 50px;}
+     .side_drop_down_top .dropdown-menu {left: -30px!important;}
+     .button_Sec_account .btn-create p {font-size: 14px;}
+     .phn_section img,
+     .phn_section_left img{max-height: 400px;width: auto;}
+     .text_sectin_side, 
+     .text_sectin_side.left_side {transform:unset;}
+     .phn_section_left img ,
+     .phn_section img{transform:unset;}
+     .bg_sec_coloured {background-position-x:unset;background-position-y: center; background-size: auto;}
+     .cream_bg {background-position-y: bottom;background-position-x: unset;}
+     section.slider_bg {background-position: center;background-size: cover;padding-top: 0;}
+     .store_app_Sec{display: flex!important;justify-content: space-between;}
+     .social_icons{padding-top: 2rem;text-align: left!important;}
+     .footer_icon img{max-width: 140px;height:auto;}
+     .navigation_sec_head .navbar-nav a.nav-link {font-size: 14px;}
+     .social_icons a i {font-size: 20px;}
+     .email_sec form{flex-wrap: wrap;}
+     .email_sec .button_header {width: 100%;justify-content: end;margin-top: 1rem;}
+     .about_main .about_bg_purple,
+     .about_main .about_bg_cream,
+     .about_main .about_bg_sky{background-position-y: bottom;}
+
+        /* faq html */
+    .accordion .item .item-header h2 button.btn.btn-link {font-size: 16px;}
+    .t-p {font-size: 13px;padding: 10px;letter-spacing: unset;}
+    .main_header_Section.faq_main,
+    .main_header_Section.pricing_main,
+    .main_header_Section.blog_detail,
+    .main_header_Section.blog_main { background-size: cover; height: auto;}
+
+          /* pricing */
+    .price_sec h2,
+    .white_box.active .price_sec h2 { font-size: 40px;}
+    .white_box p,.white_box.active p {font-size: 14px; }
+    .button_bottom .join_btn,.white_box.active .button_bottom .join_btn { font-size: 16px; padding: 1rem 0;  }
+    .img_blog{text-align: center!important;}
+    .iocn_header a i{font-size: 20px;  padding: 0 1rem;}
+    .detail_of_blog h4 {font-size: 18px;}
+    .detail_of_blog p {font-size: 14px;}
+    .read_more_btn {font-size: 14px; }
+
+    .title_about h4 {font-size: 40px;}
+    .story_detil p {font-size: 12px;   }
+    .story_detil h4 {font-size: 20px;}
+    .absolute_text h4 {font-size: 20px;}
+    .absolute_text {  right: 36%;}
+    .main_header_Section.about_us_main .navbar-nav a.nav-link{color: #fff}
+    .main_header_Section.about_us_main .button_header .btn_create {color: #fff;}
+    .main_header_Section.about_us_main .button_header .btn_create.active{color: #fff;}
+
+    .detail_blog p {font-size: 12px;line-height: 25px;}
+    .round_right img,.round_left img{ max-width: 150px;height: auto;}
+    .button_header{padding: 0rem 0rem 0rem 0rem;}
+ 
+}
